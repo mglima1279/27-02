@@ -57,3 +57,84 @@
 .search i{
     font-size: 1.5rem;
 }
+
+.itemContainer{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    display: grid;  
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    row-gap: 1.5rem;
+}
+
+.itemCard {
+  background-color: var(--cor-fundo-card);
+  border-radius: var(--borda-raio);
+  box-shadow: var(--sombra-padrao);
+  border: 1px solid var(--cor-borda);
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 240px; /* Largura fixa para manter o padrão, pode ajustar conforme necessário */
+  transition: box-shadow 0.3s ease;
+}
+
+.itemCard:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Efeito de elevação ao passar o mouse */
+}
+
+.itemCard img {
+  width: 130px;
+  height: 130px;
+  object-fit: contain;
+  margin-bottom: 1rem;
+}
+
+.itemCard h3 {
+  color: var(--cor-texto);
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.itemCard p {
+  color: var(--cor-texto);
+  font-size: 0.85rem;
+  opacity: 0.7; /* Deixa o texto sutilmente mais claro como na imagem */
+  margin-bottom: 1.5rem;
+  line-height: 1.3;
+}
+
+.itemCard div {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem; /* Espaçamento entre o R$ e o Valor */
+  width: 100%;
+  color: var(--cor-texto);
+  font-weight: 700;
+  font-size: 1.15rem;
+  margin-bottom: 1.5rem;
+}
+
+.itemCard button {
+  background-color: var(--cor-primaria); /* Usa o tom verde principal do seu sistema */
+  color: var(--cor-texto-claro);
+  border: none;
+  padding: 0.6rem 1.5rem;
+  width: 100%;
+  border-radius: 6px; /* Bordas um pouco mais retas para combinar com a imagem */
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.1s ease;
+}
+
+.itemCard button:hover {
+  background-color: var(--cor-secundaria);
+}
+
+.itemCard button:active {
+  transform: scale(0.97); /* Efeito de clique */
+}
