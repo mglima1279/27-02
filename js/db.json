@@ -1,0 +1,1502 @@
+[
+    {
+        "idProduto": 1,
+        "descricao": "Arroz Integral Orgânico",
+        "descricaoDetalhada": "Cultivado com as melhores prática ambientalmente e socialmente responsável",
+        "valorUnitario": 12.00,
+        "unidade": "Kg",
+        "estoque": 120,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/arroz_integral.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 1,
+                "nomeSecao": "Arroz/Feijão"
+            }
+        }
+    },
+    {
+        "idProduto": 2,
+        "descricao": "Feijão Carioca Orgânico",
+        "descricaoDetalhada": "Cultivado com as melhores prática ambientalmente e socialmente responsável",
+        "valorUnitario": 8.60,
+        "unidade": "Kg",
+        "estoque": 100,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/feijao_carioca.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 1,
+                "nomeSecao": "Arroz/Feijão"
+            }
+        }
+    },
+    {
+        "idProduto": 3,
+        "descricao": "Arroz Branco",
+        "descricaoDetalhada": "Produzido pelo método tradicional",
+        "valorUnitario": 5.30,
+        "unidade": "Kg",
+        "estoque": 200,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/arroz_branco.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 1,
+                "nomeSecao": "Arroz/Feijão"
+            }
+        }
+    },
+    {
+        "idProduto": 3,
+        "descricao": "Feijão Preto",
+        "descricaoDetalhada": "Produzido pelo método tradicional",
+        "valorUnitario": 8.50,
+        "unidade": "Kg",
+        "estoque": 80,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/feijao_preto.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 1,
+                "nomeSecao": "Arroz/Feijão"
+            }
+        }
+    },
+    {
+        "idProduto": 4,
+        "descricao": "Cenoura",
+        "descricaoDetalhada": "Produzido pelo método tradicional",
+        "valorUnitario": 2.30,
+        "unidade": "Kg",
+        "estoque": 20,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/cenoura.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 5,
+        "descricao": "Abóbora",
+        "descricaoDetalhada": "Produzido por irrigação",
+        "valorUnitario": 5.40,
+        "unidade": "Kg",
+        "estoque": 30,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/abobora.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 6,
+        "descricao": "Beterraba",
+        "descricaoDetalhada": "Produzido por irrigação",
+        "valorUnitario": 12.00,
+        "unidade": "Kg",
+        "estoque": 15,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/beterraba.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 7,
+        "descricao": "Abacaxi",
+        "descricaoDetalhada": "Produzido pelo método tradiconal",
+        "valorUnitario": 5.60,
+        "unidade": "und",
+        "estoque": 50,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/abacaxi.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 8,
+        "descricao": "Laranja",
+        "descricaoDetalhada": "Produzido pelo método tradiconal",
+        "valorUnitario": 10.00,
+        "unidade": "saco",
+        "estoque": 100,
+        "unidade_estoque": "saco",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/laranja.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 9,
+        "descricao": "Couve",
+        "descricaoDetalhada": "Produzido por Irrigação ",
+        "valorUnitario": 1.50,
+        "unidade": "maço",
+        "estoque": 20,
+        "unidade_estoque": "maço",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/couve.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 5,
+                "nomeSecao": "Hortaliça"
+            }
+        }
+    },
+    {
+        "idProduto": 10,
+        "descricao": "Coentro",
+        "descricaoDetalhada": "Produzido por Irrigação ",
+        "valorUnitario": 2.50,
+        "unidade": "maço",
+        "estoque": 20,
+        "unidade_estoque": "maço",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/coentro.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 5,
+                "nomeSecao": "Hortaliça"
+            }
+        }
+    },
+    {
+        "idProduto": 11,
+        "descricao": "Cebolinha",
+        "descricaoDetalhada": "Produzido por Irrigação ",
+        "valorUnitario": 1.20,
+        "unidade": "maço",
+        "estoque": 30,
+        "unidade_estoque": "maço",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/cebolinha.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 5,
+                "nomeSecao": "Hortaliça"
+            }
+        }
+    },
+    {
+        "idProduto": 12,
+        "descricao": "Alface",
+        "descricaoDetalhada": "Produzido por Irrigação ",
+        "valorUnitario": 1.50,
+        "unidade": "maço",
+        "estoque": 15,
+        "unidade_estoque": "maço",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/alface.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 5,
+                "nomeSecao": "Hortaliça"
+            }
+        }
+    },
+    {
+        "idProduto": 13,
+        "descricao": "Tomate",
+        "descricaoDetalhada": "Produzido pelo método tradicional ",
+        "valorUnitario": 5.50,
+        "unidade": "Kg",
+        "estoque": 40,
+        "unidade_estoque": "Kg",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/tomate.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 14,
+        "descricao": "Macaxeira",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 5.80,
+        "unidade": "kg",
+        "estoque": 25,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/macaxeira.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 15,
+        "descricao": "Inhame",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 4.10,
+        "unidade": "kg",
+        "estoque": 20,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/inhame.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 16,
+        "descricao": "Pimentão verde",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 3.80,
+        "unidade": "kg",
+        "estoque": 10,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/pimentao_verde.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 17,
+        "descricao": "Banana Prata",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 5.30,
+        "unidade": "Dúzia",
+        "estoque": 30,
+        "unidade_estoque": "Dúzia",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/banana_prata.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 18,
+        "descricao": "Orégano",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 10.30,
+        "unidade": "g",
+        "estoque": 10,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/oregano.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 16,
+                "nomeSecao": "Tempero"
+            }
+        }
+    },
+    {
+        "idProduto": 19,
+        "descricao": "Melancia",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 10.00,
+        "unidade": "und",
+        "estoque": 45,
+        "unidade_estoque": "und",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/melancia.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 20,
+        "descricao": "Goiaba",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 10.50,
+        "unidade": "kg",
+        "estoque": 0,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/goiaba.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 21,
+        "descricao": "Cereja",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 18.50,
+        "unidade": "kg",
+        "estoque": 0,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/cereja.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 22,
+        "descricao": "Alho Poro",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 20.50,
+        "unidade": "kg",
+        "estoque": 0,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/alho_poro.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 5,
+                "nomeSecao": "Hortaliça"
+            }
+        }
+    },
+    {
+        "idProduto": 23,
+        "descricao": "Graviola",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 14.00,
+        "unidade": "kg",
+        "estoque": 5,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/graviola.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 24,
+        "descricao": "Farinha Fina",
+        "descricaoDetalhada": "Produzido artesanal",
+        "valorUnitario": 5.00,
+        "unidade": "kg",
+        "estoque": 100,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/farinha_fina.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 13,
+                "nomeSecao": "Farinha"
+            }
+        }
+    },
+    {
+        "idProduto": 25,
+        "descricao": "Farinha Média",
+        "descricaoDetalhada": "Produzido artesanal",
+        "valorUnitario": 5.00,
+        "unidade": "kg",
+        "estoque": 80,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/farinha_media.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 13,
+                "nomeSecao": "Hortaliça"
+            }
+        }
+    },
+    {
+        "idProduto": 26,
+        "descricao": "Farinha Grossa",
+        "descricaoDetalhada": "Produzido artesanal",
+        "valorUnitario": 4.50,
+        "unidade": "kg",
+        "estoque": 20,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/farinha_grossa.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 13,
+                "nomeSecao": "Farinha"
+            }
+        }
+    },
+    {
+        "idProduto": 27,
+        "descricao": "Quiabo",
+        "descricaoDetalhada": "Produzido pelo métodos tradicional",
+        "valorUnitario": 5.30,
+        "unidade": "kg",
+        "estoque": 100,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/quiabo.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 28,
+        "descricao": "Maçã",
+        "descricaoDetalhada": "Produzido pelo métodos tradicional",
+        "valorUnitario": 4.80,
+        "unidade": "kg",
+        "estoque": 30,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/maca.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 29,
+        "descricao": "Uva",
+        "descricaoDetalhada": "Produzido pelo métodos tradicional",
+        "valorUnitario": 6.20,
+        "unidade": "kg",
+        "estoque": 50,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/uva.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 30,
+        "descricao": "Alho",
+        "descricaoDetalhada": "Produzido pelo métodos tradicional",
+        "valorUnitario": 27.00,
+        "unidade": "kg",
+        "estoque": 20,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/alho.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 33,
+        "descricao": "Leite",
+        "descricaoDetalhada": "Caixa de 1kg",
+        "valorUnitario": 5.90,
+        "unidade": "cx",
+        "estoque": 150,
+        "unidade_estoque": "cx",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/leite.jpg",
+        "setor": {
+            "idsetor": 6,
+            "setor": "Mercearia",
+            "secao": {
+                "idSecao": 10,
+                "nomeSecao": "Laticínios"
+            }
+        }
+    },
+    {
+        "idProduto": 34,
+        "descricao": "Café",
+        "descricaoDetalhada": "Caixa de 1kg",
+        "valorUnitario": 8.90,
+        "unidade": "cx",
+        "estoque": 80,
+        "unidade_estoque": "cx",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/cafe.jpg",
+        "setor": {
+            "idsetor": 6,
+            "setor": "Mercearia",
+            "secao": {
+                "idSecao": 6,
+                "nomeSecao": "Alimento"
+            }
+        }
+    },
+    {
+        "idProduto": 36,
+        "descricao": "Ervilha",
+        "descricaoDetalhada": "lata 170g",
+        "valorUnitario": 3.80,
+        "unidade": "Lata",
+        "estoque": 30,
+        "unidade_estoque": "Lata",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/ervilha.jpg",
+        "setor": {
+            "idsetor": 6,
+            "setor": "Mercearia",
+            "secao": {
+                "idSecao": 7,
+                "nomeSecao": "Grãos"
+            }
+        }
+    },
+    {
+        "idProduto": 37,
+        "descricao": "Milho",
+        "descricaoDetalhada": "lata 170g",
+        "valorUnitario": 6.40,
+        "unidade": "Lata",
+        "estoque": 40,
+        "unidade_estoque": "Lata",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/milho.jpg",
+        "setor": {
+            "idsetor": 6,
+            "setor": "Mercearia",
+            "secao": {
+                "idSecao": 7,
+                "nomeSecao": "Grãos"
+            }
+        }
+    },
+    {
+        "idProduto": 42,
+        "descricao": "Chá",
+        "descricaoDetalhada": "Caixa 15g",
+        "valorUnitario": 5.20,
+        "unidade": "cx",
+        "estoque": 10,
+        "unidade_estoque": "cx",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/cha.jpg",
+        "setor": {
+            "idsetor": 6,
+            "setor": "Mercearia",
+            "secao": {
+                "idSecao": 6,
+                "nomeSecao": "Alimentos"
+            }
+        }
+    },
+    {
+        "idProduto": 46,
+        "descricao": "Batata",
+        "descricaoDetalhada": "Pacote Congelado",
+        "valorUnitario": 12.00,
+        "unidade": "ptc",
+        "estoque": 100,
+        "unidade_estoque": "ptc",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/batata.jpg",
+        "setor": {
+            "idsetor": 6,
+            "setor": "Mercearia",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 47,
+        "descricao": "Batata inglesa",
+        "descricaoDetalhada": "Produzido pelo método tradicional",
+        "valorUnitario": 5.00,
+        "unidade": "kg",
+        "estoque": 80,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/batata.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 48,
+        "descricao": "Pimentão Amarelo",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 3.80,
+        "unidade": "kg",
+        "estoque": 10,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/pimentao_amarelo.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 49,
+        "descricao": "Pimentão Vermelho",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 3.80,
+        "unidade": "kg",
+        "estoque": 10,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/pimentao_vermelho.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 50,
+        "descricao": "Manteiga",
+        "descricaoDetalhada": "Pote de 500g",
+        "valorUnitario": 15.00,
+        "unidade": "ptc",
+        "estoque": 180,
+        "unidade_estoque": "ptc",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/manteiga.jpg",
+        "setor": {
+            "idsetor": 6,
+            "setor": "Mercearia",
+            "secao": {
+                "idSecao": 10,
+                "nomeSecao": "Laticínios"
+            }
+        }
+    },
+    {
+        "idProduto": 51,
+        "descricao": "Cesto Sortido 01 - Verdura",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 30.00,
+        "unidade": "kg",
+        "estoque": 10,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/cesto01.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 14,
+                "nomeSecao": "Cestas"
+            }
+        }
+    },
+    {
+        "idProduto": 52,
+        "descricao": "Cesto Sortido 02 - Frutas",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 34.60,
+        "unidade": "kg",
+        "estoque": 10,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/cesto01.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 14,
+                "nomeSecao": "Cestas"
+            }
+        }
+    },
+    {
+        "idProduto": 51,
+        "descricao": "Cesto Sortido 03 - Mista",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 38.90,
+        "unidade": "kg",
+        "estoque": 10,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/cesto03.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 14,
+                "nomeSecao": "Cestas"
+            }
+        }
+    },
+    {
+        "idProduto": 60,
+        "descricao": "Bolo de ovos",
+        "descricaoDetalhada": "Produção artesanal",
+        "valorUnitario": 20.00,
+        "unidade": "und",
+        "estoque": 10,
+        "unidade_estoque": "und",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/bolo_de_ovos.jpg",
+        "setor": {
+            "idsetor": 3,
+            "setor": "Panificação",
+            "secao": {
+                "idSecao": 8,
+                "nomeSecao": "Bolos"
+            }
+        }
+    },
+    {
+        "idProduto": 61,
+        "descricao": "Bolo de Macaxeira",
+        "descricaoDetalhada": "Produção artesanal",
+        "valorUnitario": 25.00,
+        "unidade": "und",
+        "estoque": 10,
+        "unidade_estoque": "und",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/bolo_de_macaxeira.jpg",
+        "setor": {
+            "idsetor": 3,
+            "setor": "Panificação",
+            "secao": {
+                "idSecao": 8,
+                "nomeSecao": "Bolos"
+            }
+        }
+    },
+    {
+        "idProduto": 62,
+        "descricao": "Bolo de Milho",
+        "descricaoDetalhada": "Produção artesanal",
+        "valorUnitario": 25.00,
+        "unidade": "und",
+        "estoque": 10,
+        "unidade_estoque": "und",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/bolo_de_milho.jpg",
+        "setor": {
+            "idsetor": 3,
+            "setor": "Panificação",
+            "secao": {
+                "idSecao": 8,
+                "nomeSecao": "Bolos"
+            }
+        }
+    },
+    {
+        "idProduto": 67,
+        "descricao": "Suco de Uva Integral ",
+        "descricaoDetalhada": "Garrafa de 1 litro",
+        "valorUnitario": 18.00,
+        "unidade": "und",
+        "estoque": 80,
+        "unidade_estoque": "und",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/suco_de_uva.jpg",
+        "setor": {
+            "idsetor": 4,
+            "setor": "Bebidas",
+            "secao": {
+                "idSecao": 9,
+                "nomeSecao": "Sucos"
+            }
+        }
+    },
+    {
+        "idProduto": 68,
+        "descricao": "Suco de Manga",
+        "descricaoDetalhada": "Garrafa de 1 litro",
+        "valorUnitario": 4.00,
+        "unidade": "und",
+        "estoque": 80,
+        "unidade_estoque": "und",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/suco_de_manga.jpg",
+        "setor": {
+            "idsetor": 4,
+            "setor": "Bebidas",
+            "secao": {
+                "idSecao": 9,
+                "nomeSecao": "Sucos"
+            }
+        }
+    },
+    {
+        "idProduto": 86,
+        "descricao": "Cebola Branca",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 4.60,
+        "unidade": "kg",
+        "estoque": 30,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/cebola_branca.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 86,
+        "descricao": "Cebola Roxa",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 4.60,
+        "unidade": "kg",
+        "estoque": 30,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/cebola_roxa.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 2,
+                "nomeSecao": "Verdura"
+            }
+        }
+    },
+    {
+        "idProduto": 87,
+        "descricao": "Queijo Coalho Artesanal",
+        "descricaoDetalhada": "Queijo do leite de vaca",
+        "valorUnitario": 38.90,
+        "unidade": "kg",
+        "estoque": 180,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/queijo_coalho.jpg",
+        "setor": {
+            "idsetor": 6,
+            "setor": "Mercearia",
+            "secao": {
+                "idSecao": 10,
+                "nomeSecao": "Laticínios"
+            }
+        }
+    },
+    {
+        "idProduto": 89,
+        "descricao": "Doce de Leite",
+        "descricaoDetalhada": "Produção artesanal",
+        "valorUnitario": 25.00,
+        "unidade": "kg",
+        "estoque": 0,
+        "unidade_estoque": "Kg",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/doce_de_leite.jpg",
+        "setor": {
+            "idsetor": 3,
+            "setor": "Panificação",
+            "secao": {
+                "idSecao": 11,
+                "nomeSecao": "Doces"
+            }
+        }
+    },
+    {
+        "idProduto": 90,
+        "descricao": "Doce",
+        "descricaoDetalhada": "Produção artesanal",
+        "valorUnitario": 25.00,
+        "unidade": "kg",
+        "estoque": 0,
+        "unidade_estoque": "Kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/doce_de_banana.jpg",
+        "setor": {
+            "idsetor": 3,
+            "setor": "Panificação",
+            "secao": {
+                "idSecao": 11,
+                "nomeSecao": "Doces"
+            }
+        }
+    },
+    {
+        "idProduto": 91,
+        "descricao": "Esponja para banho",
+        "descricaoDetalhada": "Unidade",
+        "valorUnitario": 2.00,
+        "unidade": "und",
+        "estoque": 60,
+        "unidade_estoque": "und",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/esponja_para_banho.jpg",
+        "setor": {
+            "idsetor": 5,
+            "setor": "Higiene",
+            "secao": {
+                "idSecao": 12,
+                "nomeSecao": "Higiene/Limpeza"
+            }
+        }
+    },
+    {
+        "idProduto": 92,
+        "descricao": "Manga Rosa",
+        "descricaoDetalhada": "Manga cultivada por processo orgânico",
+        "valorUnitario": 7.80,
+        "unidade": "Kg",
+        "estoque": 60,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "s",
+        "caminhoImagem": "imagens/produtos/manga_rosa.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 93,
+        "descricao": "Manga Espada",
+        "descricaoDetalhada": "Manga cultivada por processo orgânico",
+        "valorUnitario": 4.80,
+        "unidade": "Kg",
+        "estoque": 60,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/manga_espada.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 94,
+        "descricao": "Limão Taiti",
+        "descricaoDetalhada": "Limão cultivada por processo orgânico",
+        "valorUnitario": 3.20,
+        "unidade": "Kg",
+        "estoque": 60,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/limao_taiti.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 95,
+        "descricao": "Limão Siciliano",
+        "descricaoDetalhada": "Limão cultivada por processo orgânico",
+        "valorUnitario": 6.10,
+        "unidade": "Kg",
+        "estoque": 60,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/limao_siciliano.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 96,
+        "descricao": "Umbu",
+        "descricaoDetalhada": "Cultivado por processo orgânico",
+        "valorUnitario": 4.60,
+        "unidade": "Kg",
+        "estoque": 60,
+        "unidade_estoque": "kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/umbu.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 97,
+        "descricao": "Jabuticaba",
+        "descricaoDetalhada": "cultivada por processo natural",
+        "valorUnitario": 4.50,
+        "unidade": "saco",
+        "estoque": 60,
+        "unidade_estoque": "saco",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/jabuticaba.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 97,
+        "descricao": "Mangaba",
+        "descricaoDetalhada": "cultivada por processo natural",
+        "valorUnitario": 8.50,
+        "unidade": "kg",
+        "estoque": 60,
+        "unidade_estoque": "saco",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/mangaba.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 98,
+        "descricao": "Milho de Pipoca",
+        "descricaoDetalhada": "cultivada por processo orgânico",
+        "valorUnitario": 3.50,
+        "unidade": "kg",
+        "estoque": 60,
+        "unidade_estoque": "Kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/milho_pipoca.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Grãoes",
+            "secao": {
+                "idSecao": 7,
+                "nomeSecao": "Grãos"
+            }
+        }
+    },
+    {
+        "idProduto": 99,
+        "descricao": "Feijão Fradinho",
+        "descricaoDetalhada": "cultivado por processo orgânico",
+        "valorUnitario": 5.40,
+        "unidade": "kg",
+        "estoque": 60,
+        "unidade_estoque": "Kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/feijao_fradinho.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Grãoes",
+            "secao": {
+                "idSecao": 1,
+                "nomeSecao": "Arroz/Feijão"
+            }
+        }
+    },
+    {
+        "idProduto": 100,
+        "descricao": "Queijo Meia Cura",
+        "descricaoDetalhada": "cultivado por processo orgânico",
+        "valorUnitario": 25.40,
+        "unidade": "kg",
+        "estoque": 60,
+        "unidade_estoque": "Kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/queijo_meia_cura.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Grãoes",
+            "secao": {
+                "idSecao": 10,
+                "nomeSecao": "Laticínios"
+            }
+        }
+    },
+    {
+        "idProduto": 101,
+        "descricao": "Queijo Minas Frescal",
+        "descricaoDetalhada": "cultivado por processo orgânico",
+        "valorUnitario": 12.00,
+        "unidade": "kg",
+        "estoque": 60,
+        "unidade_estoque": "Kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/queijo_minas_frescal.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Grãoes",
+            "secao": {
+                "idSecao": 10,
+                "nomeSecao": "Laticínios"
+            }
+        }
+    },
+    {
+        "idProduto": 101,
+        "descricao": "Goma Tapioca",
+        "descricaoDetalhada": "cultivado por processo orgânico",
+        "valorUnitario": 6.50,
+        "unidade": "kg",
+        "estoque": 60,
+        "unidade_estoque": "Kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/goma_tapioca.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Grãoes",
+            "secao": {
+                "idSecao": 13,
+                "nomeSecao": "Farinha"
+            }
+        }
+    },
+    {
+        "idProduto": 102,
+        "descricao": "Mamão Papaia",
+        "descricaoDetalhada": "cultivado por processo orgânico",
+        "valorUnitario": 5.00,
+        "unidade": "kg",
+        "estoque": 60,
+        "unidade_estoque": "Kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/mamao_papaia.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Grãoes",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 102,
+        "descricao": "Mamão Papaia",
+        "descricaoDetalhada": "cultivado por processo orgânico",
+        "valorUnitario": 5.00,
+        "unidade": "kg",
+        "estoque": 60,
+        "unidade_estoque": "Kg",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/mamao_papaia.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Grãoes",
+            "secao": {
+                "idSecao": 3,
+                "nomeSecao": "Frutas"
+            }
+        }
+    },
+    {
+        "idProduto": 103,
+        "descricao": "Tomilho",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 10.30,
+        "unidade": "g",
+        "estoque": 10,
+        "unidade_estoque": "g",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/tomilho.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 16,
+                "nomeSecao": "Tempero"
+            }
+        }
+    },
+    {
+        "idProduto": 104,
+        "descricao": "Folha de Louro",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 6.30,
+        "unidade": "g",
+        "estoque": 10,
+        "unidade_estoque": "g",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/folha_louro.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 16,
+                "nomeSecao": "Tempero"
+            }
+        }
+    },
+    {
+        "idProduto": 105,
+        "descricao": "Pimenta do reino",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 5.00,
+        "unidade": "g",
+        "estoque": 10,
+        "unidade_estoque": "g",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/pimenta_do_reino.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 16,
+                "nomeSecao": "Tempero"
+            }
+        }
+    },
+    {
+        "idProduto": 106,
+        "descricao": "Cominho",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 3.20,
+        "unidade": "g",
+        "estoque": 10,
+        "unidade_estoque": "g",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/cominho.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 16,
+                "nomeSecao": "Tempero"
+            }
+        }
+    },
+    {
+        "idProduto": 107,
+        "descricao": "Cúrcuma",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 4.10,
+        "unidade": "g",
+        "estoque": 10,
+        "unidade_estoque": "g",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/curcuma.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 16,
+                "nomeSecao": "Tempero"
+            }
+        }
+    },
+    {
+        "idProduto": 108,
+        "descricao": "Manjericao",
+        "descricaoDetalhada": "Produzido por Irrigação",
+        "valorUnitario": 2.50,
+        "unidade": "g",
+        "estoque": 10,
+        "unidade_estoque": "g",
+        "promocao": "n",
+        "destaque": "n",
+        "caminhoImagem": "imagens/produtos/manjericao.jpg",
+        "setor": {
+            "idsetor": 1,
+            "setor": "Hortifrut",
+            "secao": {
+                "idSecao": 16,
+                "nomeSecao": "Tempero"
+            }
+        }
+    }
+]
