@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+:root {
+  --cor-primaria: #558B2F;
+  --cor-secundaria: #8BC34A;
+  --cor-terciaria: #795548;
+  
+  /* Tons Neutros */
+  --cor-fundo: #FDFDF9;
+  --cor-fundo-card: #FFFFFF;
+  --cor-texto: #333333;
+  --cor-texto-claro: #FFFFFF;
+  --cor-borda: #E0E0E0;
+
+  /* Espaçamentos e Formas */
+  --borda-raio: 12px;
+  --sombra-padrao: 0 4px 10px rgba(0, 0, 0, 0.05); 
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Quicksand", sans-serif;
+}
+
+body {
+  background-color: var(--cor-fundo);
+  color: var(--cor-texto);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1; 
+}
+
+header {
+  background-color: var(--cor-fundo-card);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 5%;
+  box-shadow: var(--sombra-padrao);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.logo img {
+  height: 50px;
+  width: auto;
+  object-fit: contain;
+}
+
+.menu {
+  display: flex;
+  gap: 2.5rem;
+}
+
+.menu a {
+  text-decoration: none;
+  color: var(--cor-texto);
+  font-weight: 600;
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
+}
+
+.menu a:hover {
+  color: var(--cor-primaria);
+}
+
+.cart a {
+  text-decoration: none;
+  color: var(--cor-texto);
+  font-size: 1.5rem;
+  transition: color 0.3s ease, scale 0.3s ease;
+  display: inline-block;
+}
+
+.cart a:hover {
+  color: var(--cor-primaria);
+  scale: 1.1;
+}
+
+footer {
+  background-color: var(--cor-primaria);
+  color: var(--cor-texto-claro);
+  padding: 2.5rem 5%;
+  margin-top: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.pagamentos h3 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.pagamentos ul {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+}
+
+.pagamentos ul li {
+  font-weight: 500;
+  background-color: var(--cor-secundaria);
+  color: var(--cor-texto-claro);
+  padding: 0.5rem 1.2rem;
+  border-radius: var(--borda-raio);
+  cursor: default;
+}
