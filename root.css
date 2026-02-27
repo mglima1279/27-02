@@ -24,6 +24,16 @@
   font-family: "Quicksand", sans-serif;
 }
 
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
 body {
   background-color: var(--cor-fundo);
   color: var(--cor-texto);
@@ -35,6 +45,48 @@ body {
 main {
   flex: 1; 
   padding: 1.5rem;
+}
+
+.divStyle1 {
+  background-color: var(--cor-secundaria); 
+  width: 90%;
+
+  padding: 1.5rem;
+  gap: 1.5rem;
+
+  margin-bottom: 1.5rem;
+
+  border-radius: var(--borda-raio);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.divStyle1 button {
+  background: transparent;
+  border: none;
+  color: #f1f1f1;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0.5rem 0.8rem;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.divStyle1 button:hover {
+  color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.divStyle1 button.selected {
+  background-color: #121620;
+  color: #ffffff;
+  font-weight: 700;
 }
 
 header {

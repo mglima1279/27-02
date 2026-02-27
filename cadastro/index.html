@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Natu | Cadastro</title>
 
     <link rel="stylesheet" href="../root.css">
+    <link rel="stylesheet" href="style.css">
+
     <link rel="shortcut icon" href="../img/geral/nobgLogo.png" type="image/x-icon">
 </head>
+
 <body>
     <header>
         <div class="logo">
@@ -27,7 +31,75 @@
     </header>
 
     <main>
-        
+        <h1>CADASTRO</h1>
+        <form>
+            <div class="formItem">
+                <label for="nam">Nome*</label>
+                <input type="text" placeholder="Digite aqui..." name="nam" id="nam" required>
+            </div>
+
+            <div class="formItem">
+                <label for="secNam">Sobrenome*</label>
+                <input type="text" placeholder="Digite aqui..." name="secNam" id="secNam" required>
+            </div>
+
+            <div class="formItem">
+                <label for="cpf">CPF*</label>
+                <input type="text" inputmode="numeric" pattern="\d{11}" placeholder="Digite aqui..." name="cpf" id="cpf"
+                    maxlength="11" required>
+            </div>
+
+            <div class="formItem">
+                <label for="tel">Telefone*</label>
+                <input type="text" inputmode="numeric" placeholder="Digite aqui..." name="tel" id="tel" pattern="\d{11}"
+                    maxlength="11" required>
+            </div>
+
+            <div class="formItem">
+                <label for="email">Email*</label>
+                <input type="email" placeholder="Digite aqui..." name="email" id="email" required>
+            </div>
+
+            <div class="formItem">
+                <label for="birth">Data de nascimento*</label>
+                <input type="date" name="birth" id="birth" required>
+            </div>
+
+            <div class="formItem">
+                <label for="cep">CEP*</label>
+                <input type="text" inputmode="numeric" name="cep" id="cep" pattern="\d{8}" maxlength="8" required>
+            </div>
+
+            <div class="formItem hiddenItem">
+                <label for="logr">Logradouro</label>
+                <input type="text" name="logr" id="logr" disabled required>
+            </div>
+
+            <div class="formItem hiddenItem">
+                <label for="comp">Complemento</label>
+                <input type="text" placeholder="Digite aqui..." name="comp" id="comp">
+            </div>
+
+            <div class="formItem hiddenItem">
+                <label for="num">Número</label>
+                <input type="number" placeholder="Digite aqui..." name="num" id="num">
+            </div>
+
+            <div class="formItem">
+                <label for="password">Senha*</label>
+                <input type="password" placeholder="Digite aqui..." name="password" id="password" required>
+            </div>
+
+            <div>
+                <input type="checkbox" name="notif" id="notif">
+                <label for="notif">Desejo receber ofertas pelo email e pelo WhatsApp</label>
+            </div>
+
+            <div>
+                <input type="submit" value="Cadastrar">
+                <input type="reset" value="Limpar">
+            </div>
+        </form>
     </main>
 
     <footer>
@@ -43,4 +115,5 @@
 
     <script src="https://kit.fontawesome.com/1090c0e9f6.js" crossorigin="anonymous"></script>
 </body>
+
 </html>
