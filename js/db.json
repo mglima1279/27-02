@@ -9,7 +9,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/arroz_integral.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -29,7 +29,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/feijao_carioca.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -49,7 +49,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/arroz_branco.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -69,7 +69,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/feijao_preto.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -89,7 +89,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/cenoura.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -109,7 +109,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/abobora.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -129,7 +129,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/beterraba.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -149,7 +149,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/abacaxi.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -169,7 +169,7 @@
         "unidade_estoque": "saco",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/laranja.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -189,7 +189,7 @@
         "unidade_estoque": "maço",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/couve.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -209,7 +209,7 @@
         "unidade_estoque": "maço",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/coentro.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -229,7 +229,7 @@
         "unidade_estoque": "maço",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/cebolinha.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -249,7 +249,7 @@
         "unidade_estoque": "maço",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/alface.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -269,7 +269,7 @@
         "unidade_estoque": "Kg",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/tomate.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -289,7 +289,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/macaxeira.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -309,7 +309,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/inhame.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -329,7 +329,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/pimentao_verde.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -349,7 +349,7 @@
         "unidade_estoque": "Dúzia",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/banana_prata.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -369,7 +369,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/oregano.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -389,7 +389,7 @@
         "unidade_estoque": "und",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/melancia.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -409,7 +409,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/goiaba.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -429,7 +429,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/cereja.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -449,7 +449,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/alho_poro.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -469,7 +469,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/graviola.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -489,7 +489,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/farinha_fina.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -509,7 +509,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/farinha_media.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -529,7 +529,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/farinha_grossa.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -549,7 +549,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/quiabo.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -569,7 +569,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/maca.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -589,7 +589,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/uva.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -609,7 +609,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/alho.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -629,7 +629,7 @@
         "unidade_estoque": "cx",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/leite.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 6,
             "setor": "Mercearia",
@@ -649,7 +649,7 @@
         "unidade_estoque": "cx",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/cafe.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 6,
             "setor": "Mercearia",
@@ -669,7 +669,7 @@
         "unidade_estoque": "Lata",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/ervilha.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 6,
             "setor": "Mercearia",
@@ -689,7 +689,7 @@
         "unidade_estoque": "Lata",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/milho.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 6,
             "setor": "Mercearia",
@@ -709,7 +709,7 @@
         "unidade_estoque": "cx",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/cha.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 6,
             "setor": "Mercearia",
@@ -729,7 +729,7 @@
         "unidade_estoque": "ptc",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/batata.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 6,
             "setor": "Mercearia",
@@ -749,7 +749,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/batata.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -769,7 +769,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/pimentao_amarelo.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -789,7 +789,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/pimentao_vermelho.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -809,7 +809,7 @@
         "unidade_estoque": "ptc",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/manteiga.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 6,
             "setor": "Mercearia",
@@ -829,7 +829,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/cesto01.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -849,7 +849,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/cesto01.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -869,7 +869,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/cesto03.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -889,7 +889,7 @@
         "unidade_estoque": "und",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/bolo_de_ovos.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 3,
             "setor": "Panificação",
@@ -909,7 +909,7 @@
         "unidade_estoque": "und",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/bolo_de_macaxeira.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 3,
             "setor": "Panificação",
@@ -929,7 +929,7 @@
         "unidade_estoque": "und",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/bolo_de_milho.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 3,
             "setor": "Panificação",
@@ -949,7 +949,7 @@
         "unidade_estoque": "und",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/suco_de_uva.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 4,
             "setor": "Bebidas",
@@ -969,7 +969,7 @@
         "unidade_estoque": "und",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/suco_de_manga.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 4,
             "setor": "Bebidas",
@@ -989,7 +989,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/cebola_branca.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1009,7 +1009,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/cebola_roxa.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1029,7 +1029,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/queijo_coalho.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 6,
             "setor": "Mercearia",
@@ -1049,7 +1049,7 @@
         "unidade_estoque": "Kg",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/doce_de_leite.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 3,
             "setor": "Panificação",
@@ -1069,7 +1069,7 @@
         "unidade_estoque": "Kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/doce_de_banana.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 3,
             "setor": "Panificação",
@@ -1089,7 +1089,7 @@
         "unidade_estoque": "und",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/esponja_para_banho.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 5,
             "setor": "Higiene",
@@ -1109,7 +1109,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "s",
-        "caminhoImagem": "imagens/produtos/manga_rosa.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1129,7 +1129,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/manga_espada.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1149,7 +1149,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/limao_taiti.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1169,7 +1169,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/limao_siciliano.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1189,7 +1189,7 @@
         "unidade_estoque": "kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/umbu.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1209,7 +1209,7 @@
         "unidade_estoque": "saco",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/jabuticaba.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1229,7 +1229,7 @@
         "unidade_estoque": "saco",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/mangaba.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1249,7 +1249,7 @@
         "unidade_estoque": "Kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/milho_pipoca.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Grãoes",
@@ -1269,7 +1269,7 @@
         "unidade_estoque": "Kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/feijao_fradinho.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Grãoes",
@@ -1289,7 +1289,7 @@
         "unidade_estoque": "Kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/queijo_meia_cura.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Grãoes",
@@ -1309,7 +1309,7 @@
         "unidade_estoque": "Kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/queijo_minas_frescal.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Grãoes",
@@ -1329,7 +1329,7 @@
         "unidade_estoque": "Kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/goma_tapioca.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Grãoes",
@@ -1349,7 +1349,7 @@
         "unidade_estoque": "Kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/mamao_papaia.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Grãoes",
@@ -1369,7 +1369,7 @@
         "unidade_estoque": "Kg",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/mamao_papaia.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Grãoes",
@@ -1389,7 +1389,7 @@
         "unidade_estoque": "g",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/tomilho.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1409,7 +1409,7 @@
         "unidade_estoque": "g",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/folha_louro.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1429,7 +1429,7 @@
         "unidade_estoque": "g",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/pimenta_do_reino.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1449,7 +1449,7 @@
         "unidade_estoque": "g",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/cominho.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1469,7 +1469,7 @@
         "unidade_estoque": "g",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/curcuma.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
@@ -1489,7 +1489,7 @@
         "unidade_estoque": "g",
         "promocao": "n",
         "destaque": "n",
-        "caminhoImagem": "imagens/produtos/manjericao.jpg",
+        "caminhoImagem": "img/produtos/exemplo.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",
