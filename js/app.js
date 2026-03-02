@@ -1,9 +1,4 @@
 function generateCards(){
-    const data = fetchData("./js/db.json")
-    console.log(data)
-}
-
-function fetchData(url){
     let data = []
 
     fetch(encodeURI(url))
