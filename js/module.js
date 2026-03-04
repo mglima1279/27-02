@@ -1,11 +1,12 @@
 export class itemCard{
-    constructor(nam, desc, price, und, imgNam, secao){
+    constructor(nam, desc, price, und, imgNam, secao, id){
         this.nam = nam || "Indefinido"
         this.desc = desc || ""
         this.price = price || 0
         this.und = und || ""
         this.secao = secao
         this.imgNam = imgNam || "./img/geral/logo.png"
+        this.id = id
 
         const htmlEl = document.createElement("div")
         htmlEl.classList.add("itemCard")

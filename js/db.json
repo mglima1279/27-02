@@ -1,9 +1,9 @@
 [
     {
-        "idProduto": 1,
+        "idProduto": 0,
         "descricao": "Arroz Integral Orgânico",
         "descricaoDetalhada": "Cultivado com as melhores prática ambientalmente e socialmente responsável",
-        "valorUnitario": 12.00,
+        "valorUnitario": 12.0,
         "unidade": "Kg",
         "estoque": 120,
         "unidade_estoque": "kg",
@@ -20,10 +20,10 @@
         }
     },
     {
-        "idProduto": 2,
+        "idProduto": 1,
         "descricao": "Feijão Carioca Orgânico",
         "descricaoDetalhada": "Cultivado com as melhores prática ambientalmente e socialmente responsável",
-        "valorUnitario": 8.60,
+        "valorUnitario": 8.6,
         "unidade": "Kg",
         "estoque": 100,
         "unidade_estoque": "kg",
@@ -40,10 +40,10 @@
         }
     },
     {
-        "idProduto": 3,
+        "idProduto": 2,
         "descricao": "Arroz Branco",
         "descricaoDetalhada": "Produzido pelo método tradicional",
-        "valorUnitario": 5.30,
+        "valorUnitario": 5.3,
         "unidade": "Kg",
         "estoque": 200,
         "unidade_estoque": "kg",
@@ -63,7 +63,7 @@
         "idProduto": 3,
         "descricao": "Feijão Preto",
         "descricaoDetalhada": "Produzido pelo método tradicional",
-        "valorUnitario": 8.50,
+        "valorUnitario": 8.5,
         "unidade": "Kg",
         "estoque": 80,
         "unidade_estoque": "kg",
@@ -83,7 +83,7 @@
         "idProduto": 4,
         "descricao": "Cenoura",
         "descricaoDetalhada": "Produzido pelo método tradicional",
-        "valorUnitario": 2.30,
+        "valorUnitario": 2.3,
         "unidade": "Kg",
         "estoque": 20,
         "unidade_estoque": "kg",
@@ -103,7 +103,7 @@
         "idProduto": 5,
         "descricao": "Abóbora",
         "descricaoDetalhada": "Produzido por irrigação",
-        "valorUnitario": 5.40,
+        "valorUnitario": 5.4,
         "unidade": "Kg",
         "estoque": 30,
         "unidade_estoque": "kg",
@@ -123,7 +123,7 @@
         "idProduto": 6,
         "descricao": "Beterraba",
         "descricaoDetalhada": "Produzido por irrigação",
-        "valorUnitario": 12.00,
+        "valorUnitario": 12.0,
         "unidade": "Kg",
         "estoque": 15,
         "unidade_estoque": "kg",
@@ -143,7 +143,7 @@
         "idProduto": 7,
         "descricao": "Abacaxi",
         "descricaoDetalhada": "Produzido pelo método tradiconal",
-        "valorUnitario": 5.60,
+        "valorUnitario": 5.6,
         "unidade": "und",
         "estoque": 50,
         "unidade_estoque": "kg",
@@ -163,7 +163,7 @@
         "idProduto": 8,
         "descricao": "Laranja",
         "descricaoDetalhada": "Produzido pelo método tradiconal",
-        "valorUnitario": 10.00,
+        "valorUnitario": 10.0,
         "unidade": "saco",
         "estoque": 100,
         "unidade_estoque": "saco",
@@ -183,7 +183,7 @@
         "idProduto": 9,
         "descricao": "Couve",
         "descricaoDetalhada": "Produzido por Irrigação ",
-        "valorUnitario": 1.50,
+        "valorUnitario": 1.5,
         "unidade": "maço",
         "estoque": 20,
         "unidade_estoque": "maço",
@@ -203,7 +203,7 @@
         "idProduto": 10,
         "descricao": "Coentro",
         "descricaoDetalhada": "Produzido por Irrigação ",
-        "valorUnitario": 2.50,
+        "valorUnitario": 2.5,
         "unidade": "maço",
         "estoque": 20,
         "unidade_estoque": "maço",
@@ -223,7 +223,7 @@
         "idProduto": 11,
         "descricao": "Cebolinha",
         "descricaoDetalhada": "Produzido por Irrigação ",
-        "valorUnitario": 1.20,
+        "valorUnitario": 1.2,
         "unidade": "maço",
         "estoque": 30,
         "unidade_estoque": "maço",
@@ -243,7 +243,7 @@
         "idProduto": 12,
         "descricao": "Alface",
         "descricaoDetalhada": "Produzido por Irrigação ",
-        "valorUnitario": 1.50,
+        "valorUnitario": 1.5,
         "unidade": "maço",
         "estoque": 15,
         "unidade_estoque": "maço",
@@ -263,7 +263,7 @@
         "idProduto": 13,
         "descricao": "Tomate",
         "descricaoDetalhada": "Produzido pelo método tradicional ",
-        "valorUnitario": 5.50,
+        "valorUnitario": 5.5,
         "unidade": "Kg",
         "estoque": 40,
         "unidade_estoque": "Kg",
@@ -283,7 +283,7 @@
         "idProduto": 14,
         "descricao": "Macaxeira",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 5.80,
+        "valorUnitario": 5.8,
         "unidade": "kg",
         "estoque": 25,
         "unidade_estoque": "kg",
@@ -303,7 +303,7 @@
         "idProduto": 15,
         "descricao": "Inhame",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 4.10,
+        "valorUnitario": 4.1,
         "unidade": "kg",
         "estoque": 20,
         "unidade_estoque": "kg",
@@ -323,7 +323,7 @@
         "idProduto": 16,
         "descricao": "Pimentão verde",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 3.80,
+        "valorUnitario": 3.8,
         "unidade": "kg",
         "estoque": 10,
         "unidade_estoque": "kg",
@@ -343,7 +343,7 @@
         "idProduto": 17,
         "descricao": "Banana Prata",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 5.30,
+        "valorUnitario": 5.3,
         "unidade": "Dúzia",
         "estoque": 30,
         "unidade_estoque": "Dúzia",
@@ -363,7 +363,7 @@
         "idProduto": 18,
         "descricao": "Orégano",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 10.30,
+        "valorUnitario": 10.3,
         "unidade": "g",
         "estoque": 10,
         "unidade_estoque": "kg",
@@ -383,7 +383,7 @@
         "idProduto": 19,
         "descricao": "Melancia",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 10.00,
+        "valorUnitario": 10.0,
         "unidade": "und",
         "estoque": 45,
         "unidade_estoque": "und",
@@ -403,7 +403,7 @@
         "idProduto": 20,
         "descricao": "Goiaba",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 10.50,
+        "valorUnitario": 10.5,
         "unidade": "kg",
         "estoque": 0,
         "unidade_estoque": "kg",
@@ -423,7 +423,7 @@
         "idProduto": 21,
         "descricao": "Cereja",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 18.50,
+        "valorUnitario": 18.5,
         "unidade": "kg",
         "estoque": 0,
         "unidade_estoque": "kg",
@@ -443,7 +443,7 @@
         "idProduto": 22,
         "descricao": "Alho Poro",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 20.50,
+        "valorUnitario": 20.5,
         "unidade": "kg",
         "estoque": 0,
         "unidade_estoque": "kg",
@@ -463,7 +463,7 @@
         "idProduto": 23,
         "descricao": "Graviola",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 14.00,
+        "valorUnitario": 14.0,
         "unidade": "kg",
         "estoque": 5,
         "unidade_estoque": "kg",
@@ -483,7 +483,7 @@
         "idProduto": 24,
         "descricao": "Farinha Fina",
         "descricaoDetalhada": "Produzido artesanal",
-        "valorUnitario": 5.00,
+        "valorUnitario": 5.0,
         "unidade": "kg",
         "estoque": 100,
         "unidade_estoque": "kg",
@@ -503,7 +503,7 @@
         "idProduto": 25,
         "descricao": "Farinha Média",
         "descricaoDetalhada": "Produzido artesanal",
-        "valorUnitario": 5.00,
+        "valorUnitario": 5.0,
         "unidade": "kg",
         "estoque": 80,
         "unidade_estoque": "kg",
@@ -523,7 +523,7 @@
         "idProduto": 26,
         "descricao": "Farinha Grossa",
         "descricaoDetalhada": "Produzido artesanal",
-        "valorUnitario": 4.50,
+        "valorUnitario": 4.5,
         "unidade": "kg",
         "estoque": 20,
         "unidade_estoque": "kg",
@@ -543,7 +543,7 @@
         "idProduto": 27,
         "descricao": "Quiabo",
         "descricaoDetalhada": "Produzido pelo métodos tradicional",
-        "valorUnitario": 5.30,
+        "valorUnitario": 5.3,
         "unidade": "kg",
         "estoque": 100,
         "unidade_estoque": "kg",
@@ -563,7 +563,7 @@
         "idProduto": 28,
         "descricao": "Maçã",
         "descricaoDetalhada": "Produzido pelo métodos tradicional",
-        "valorUnitario": 4.80,
+        "valorUnitario": 4.8,
         "unidade": "kg",
         "estoque": 30,
         "unidade_estoque": "kg",
@@ -583,7 +583,7 @@
         "idProduto": 29,
         "descricao": "Uva",
         "descricaoDetalhada": "Produzido pelo métodos tradicional",
-        "valorUnitario": 6.20,
+        "valorUnitario": 6.2,
         "unidade": "kg",
         "estoque": 50,
         "unidade_estoque": "kg",
@@ -603,7 +603,7 @@
         "idProduto": 30,
         "descricao": "Alho",
         "descricaoDetalhada": "Produzido pelo métodos tradicional",
-        "valorUnitario": 27.00,
+        "valorUnitario": 27.0,
         "unidade": "kg",
         "estoque": 20,
         "unidade_estoque": "kg",
@@ -620,10 +620,10 @@
         }
     },
     {
-        "idProduto": 33,
+        "idProduto": 31,
         "descricao": "Leite",
         "descricaoDetalhada": "Caixa de 1kg",
-        "valorUnitario": 5.90,
+        "valorUnitario": 5.9,
         "unidade": "cx",
         "estoque": 150,
         "unidade_estoque": "cx",
@@ -640,10 +640,10 @@
         }
     },
     {
-        "idProduto": 34,
+        "idProduto": 32,
         "descricao": "Café",
         "descricaoDetalhada": "Caixa de 1kg",
-        "valorUnitario": 8.90,
+        "valorUnitario": 8.9,
         "unidade": "cx",
         "estoque": 80,
         "unidade_estoque": "cx",
@@ -660,10 +660,10 @@
         }
     },
     {
-        "idProduto": 36,
+        "idProduto": 33,
         "descricao": "Ervilha",
         "descricaoDetalhada": "lata 170g",
-        "valorUnitario": 3.80,
+        "valorUnitario": 3.8,
         "unidade": "Lata",
         "estoque": 30,
         "unidade_estoque": "Lata",
@@ -680,10 +680,10 @@
         }
     },
     {
-        "idProduto": 37,
+        "idProduto": 34,
         "descricao": "Milho",
         "descricaoDetalhada": "lata 170g",
-        "valorUnitario": 6.40,
+        "valorUnitario": 6.4,
         "unidade": "Lata",
         "estoque": 40,
         "unidade_estoque": "Lata",
@@ -700,10 +700,10 @@
         }
     },
     {
-        "idProduto": 42,
+        "idProduto": 35,
         "descricao": "Chá",
         "descricaoDetalhada": "Caixa 15g",
-        "valorUnitario": 5.20,
+        "valorUnitario": 5.2,
         "unidade": "cx",
         "estoque": 10,
         "unidade_estoque": "cx",
@@ -720,10 +720,10 @@
         }
     },
     {
-        "idProduto": 46,
+        "idProduto": 36,
         "descricao": "Batata",
         "descricaoDetalhada": "Pacote Congelado",
-        "valorUnitario": 12.00,
+        "valorUnitario": 12.0,
         "unidade": "ptc",
         "estoque": 100,
         "unidade_estoque": "ptc",
@@ -740,10 +740,10 @@
         }
     },
     {
-        "idProduto": 47,
+        "idProduto": 37,
         "descricao": "Batata inglesa",
         "descricaoDetalhada": "Produzido pelo método tradicional",
-        "valorUnitario": 5.00,
+        "valorUnitario": 5.0,
         "unidade": "kg",
         "estoque": 80,
         "unidade_estoque": "kg",
@@ -760,10 +760,10 @@
         }
     },
     {
-        "idProduto": 48,
+        "idProduto": 38,
         "descricao": "Pimentão Amarelo",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 3.80,
+        "valorUnitario": 3.8,
         "unidade": "kg",
         "estoque": 10,
         "unidade_estoque": "kg",
@@ -780,10 +780,10 @@
         }
     },
     {
-        "idProduto": 49,
+        "idProduto": 39,
         "descricao": "Pimentão Vermelho",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 3.80,
+        "valorUnitario": 3.8,
         "unidade": "kg",
         "estoque": 10,
         "unidade_estoque": "kg",
@@ -800,10 +800,10 @@
         }
     },
     {
-        "idProduto": 50,
+        "idProduto": 40,
         "descricao": "Manteiga",
         "descricaoDetalhada": "Pote de 500g",
-        "valorUnitario": 15.00,
+        "valorUnitario": 15.0,
         "unidade": "ptc",
         "estoque": 180,
         "unidade_estoque": "ptc",
@@ -820,10 +820,10 @@
         }
     },
     {
-        "idProduto": 51,
+        "idProduto": 41,
         "descricao": "Cesto Sortido 01 - Verdura",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 30.00,
+        "valorUnitario": 30.0,
         "unidade": "kg",
         "estoque": 10,
         "unidade_estoque": "kg",
@@ -840,10 +840,10 @@
         }
     },
     {
-        "idProduto": 52,
+        "idProduto": 42,
         "descricao": "Cesto Sortido 02 - Frutas",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 34.60,
+        "valorUnitario": 34.6,
         "unidade": "kg",
         "estoque": 10,
         "unidade_estoque": "kg",
@@ -860,10 +860,10 @@
         }
     },
     {
-        "idProduto": 51,
+        "idProduto": 43,
         "descricao": "Cesto Sortido 03 - Mista",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 38.90,
+        "valorUnitario": 38.9,
         "unidade": "kg",
         "estoque": 10,
         "unidade_estoque": "kg",
@@ -880,10 +880,10 @@
         }
     },
     {
-        "idProduto": 60,
+        "idProduto": 44,
         "descricao": "Bolo de ovos",
         "descricaoDetalhada": "Produção artesanal",
-        "valorUnitario": 20.00,
+        "valorUnitario": 20.0,
         "unidade": "und",
         "estoque": 10,
         "unidade_estoque": "und",
@@ -900,10 +900,10 @@
         }
     },
     {
-        "idProduto": 61,
+        "idProduto": 45,
         "descricao": "Bolo de Macaxeira",
         "descricaoDetalhada": "Produção artesanal",
-        "valorUnitario": 25.00,
+        "valorUnitario": 25.0,
         "unidade": "und",
         "estoque": 10,
         "unidade_estoque": "und",
@@ -920,10 +920,10 @@
         }
     },
     {
-        "idProduto": 62,
+        "idProduto": 46,
         "descricao": "Bolo de Milho",
         "descricaoDetalhada": "Produção artesanal",
-        "valorUnitario": 25.00,
+        "valorUnitario": 25.0,
         "unidade": "und",
         "estoque": 10,
         "unidade_estoque": "und",
@@ -940,10 +940,10 @@
         }
     },
     {
-        "idProduto": 67,
+        "idProduto": 47,
         "descricao": "Suco de Uva Integral ",
         "descricaoDetalhada": "Garrafa de 1 litro",
-        "valorUnitario": 18.00,
+        "valorUnitario": 18.0,
         "unidade": "und",
         "estoque": 80,
         "unidade_estoque": "und",
@@ -960,10 +960,10 @@
         }
     },
     {
-        "idProduto": 68,
+        "idProduto": 48,
         "descricao": "Suco de Manga",
         "descricaoDetalhada": "Garrafa de 1 litro",
-        "valorUnitario": 4.00,
+        "valorUnitario": 4.0,
         "unidade": "und",
         "estoque": 80,
         "unidade_estoque": "und",
@@ -980,10 +980,10 @@
         }
     },
     {
-        "idProduto": 86,
+        "idProduto": 49,
         "descricao": "Cebola Branca",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 4.60,
+        "valorUnitario": 4.6,
         "unidade": "kg",
         "estoque": 30,
         "unidade_estoque": "kg",
@@ -1000,10 +1000,10 @@
         }
     },
     {
-        "idProduto": 86,
+        "idProduto": 50,
         "descricao": "Cebola Roxa",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 4.60,
+        "valorUnitario": 4.6,
         "unidade": "kg",
         "estoque": 30,
         "unidade_estoque": "kg",
@@ -1020,10 +1020,10 @@
         }
     },
     {
-        "idProduto": 87,
+        "idProduto": 51,
         "descricao": "Queijo Coalho Artesanal",
         "descricaoDetalhada": "Queijo do leite de vaca",
-        "valorUnitario": 38.90,
+        "valorUnitario": 38.9,
         "unidade": "kg",
         "estoque": 180,
         "unidade_estoque": "kg",
@@ -1040,10 +1040,10 @@
         }
     },
     {
-        "idProduto": 89,
+        "idProduto": 52,
         "descricao": "Doce de Leite",
         "descricaoDetalhada": "Produção artesanal",
-        "valorUnitario": 25.00,
+        "valorUnitario": 25.0,
         "unidade": "kg",
         "estoque": 0,
         "unidade_estoque": "Kg",
@@ -1060,10 +1060,10 @@
         }
     },
     {
-        "idProduto": 90,
+        "idProduto": 53,
         "descricao": "Doce",
         "descricaoDetalhada": "Produção artesanal",
-        "valorUnitario": 25.00,
+        "valorUnitario": 25.0,
         "unidade": "kg",
         "estoque": 0,
         "unidade_estoque": "Kg",
@@ -1080,10 +1080,10 @@
         }
     },
     {
-        "idProduto": 91,
+        "idProduto": 54,
         "descricao": "Esponja para banho",
         "descricaoDetalhada": "Unidade",
-        "valorUnitario": 2.00,
+        "valorUnitario": 2.0,
         "unidade": "und",
         "estoque": 60,
         "unidade_estoque": "und",
@@ -1100,10 +1100,10 @@
         }
     },
     {
-        "idProduto": 92,
+        "idProduto": 55,
         "descricao": "Manga Rosa",
         "descricaoDetalhada": "Manga cultivada por processo orgânico",
-        "valorUnitario": 7.80,
+        "valorUnitario": 7.8,
         "unidade": "Kg",
         "estoque": 60,
         "unidade_estoque": "kg",
@@ -1120,10 +1120,10 @@
         }
     },
     {
-        "idProduto": 93,
+        "idProduto": 56,
         "descricao": "Manga Espada",
         "descricaoDetalhada": "Manga cultivada por processo orgânico",
-        "valorUnitario": 4.80,
+        "valorUnitario": 4.8,
         "unidade": "Kg",
         "estoque": 60,
         "unidade_estoque": "kg",
@@ -1140,10 +1140,10 @@
         }
     },
     {
-        "idProduto": 94,
+        "idProduto": 57,
         "descricao": "Limão Taiti",
         "descricaoDetalhada": "Limão cultivada por processo orgânico",
-        "valorUnitario": 3.20,
+        "valorUnitario": 3.2,
         "unidade": "Kg",
         "estoque": 60,
         "unidade_estoque": "kg",
@@ -1160,10 +1160,10 @@
         }
     },
     {
-        "idProduto": 95,
+        "idProduto": 58,
         "descricao": "Limão Siciliano",
         "descricaoDetalhada": "Limão cultivada por processo orgânico",
-        "valorUnitario": 6.10,
+        "valorUnitario": 6.1,
         "unidade": "Kg",
         "estoque": 60,
         "unidade_estoque": "kg",
@@ -1180,10 +1180,10 @@
         }
     },
     {
-        "idProduto": 96,
+        "idProduto": 59,
         "descricao": "Umbu",
         "descricaoDetalhada": "Cultivado por processo orgânico",
-        "valorUnitario": 4.60,
+        "valorUnitario": 4.6,
         "unidade": "Kg",
         "estoque": 60,
         "unidade_estoque": "kg",
@@ -1200,10 +1200,10 @@
         }
     },
     {
-        "idProduto": 97,
+        "idProduto": 60,
         "descricao": "Jabuticaba",
         "descricaoDetalhada": "cultivada por processo natural",
-        "valorUnitario": 4.50,
+        "valorUnitario": 4.5,
         "unidade": "saco",
         "estoque": 60,
         "unidade_estoque": "saco",
@@ -1220,10 +1220,10 @@
         }
     },
     {
-        "idProduto": 97,
+        "idProduto": 61,
         "descricao": "Mangaba",
         "descricaoDetalhada": "cultivada por processo natural",
-        "valorUnitario": 8.50,
+        "valorUnitario": 8.5,
         "unidade": "kg",
         "estoque": 60,
         "unidade_estoque": "saco",
@@ -1240,10 +1240,10 @@
         }
     },
     {
-        "idProduto": 98,
+        "idProduto": 62,
         "descricao": "Milho de Pipoca",
         "descricaoDetalhada": "cultivada por processo orgânico",
-        "valorUnitario": 3.50,
+        "valorUnitario": 3.5,
         "unidade": "kg",
         "estoque": 60,
         "unidade_estoque": "Kg",
@@ -1260,10 +1260,10 @@
         }
     },
     {
-        "idProduto": 99,
+        "idProduto": 63,
         "descricao": "Feijão Fradinho",
         "descricaoDetalhada": "cultivado por processo orgânico",
-        "valorUnitario": 5.40,
+        "valorUnitario": 5.4,
         "unidade": "kg",
         "estoque": 60,
         "unidade_estoque": "Kg",
@@ -1280,10 +1280,10 @@
         }
     },
     {
-        "idProduto": 100,
+        "idProduto": 64,
         "descricao": "Queijo Meia Cura",
         "descricaoDetalhada": "cultivado por processo orgânico",
-        "valorUnitario": 25.40,
+        "valorUnitario": 25.4,
         "unidade": "kg",
         "estoque": 60,
         "unidade_estoque": "Kg",
@@ -1300,10 +1300,10 @@
         }
     },
     {
-        "idProduto": 101,
+        "idProduto": 65,
         "descricao": "Queijo Minas Frescal",
         "descricaoDetalhada": "cultivado por processo orgânico",
-        "valorUnitario": 12.00,
+        "valorUnitario": 12.0,
         "unidade": "kg",
         "estoque": 60,
         "unidade_estoque": "Kg",
@@ -1320,10 +1320,10 @@
         }
     },
     {
-        "idProduto": 101,
+        "idProduto": 66,
         "descricao": "Goma Tapioca",
         "descricaoDetalhada": "cultivado por processo orgânico",
-        "valorUnitario": 6.50,
+        "valorUnitario": 6.5,
         "unidade": "kg",
         "estoque": 60,
         "unidade_estoque": "Kg",
@@ -1340,10 +1340,10 @@
         }
     },
     {
-        "idProduto": 102,
+        "idProduto": 67,
         "descricao": "Mamão Papaia",
         "descricaoDetalhada": "cultivado por processo orgânico",
-        "valorUnitario": 5.00,
+        "valorUnitario": 5.0,
         "unidade": "kg",
         "estoque": 60,
         "unidade_estoque": "Kg",
@@ -1360,10 +1360,10 @@
         }
     },
     {
-        "idProduto": 102,
+        "idProduto": 68,
         "descricao": "Mamão Papaia",
         "descricaoDetalhada": "cultivado por processo orgânico",
-        "valorUnitario": 5.00,
+        "valorUnitario": 5.0,
         "unidade": "kg",
         "estoque": 60,
         "unidade_estoque": "Kg",
@@ -1380,10 +1380,10 @@
         }
     },
     {
-        "idProduto": 103,
+        "idProduto": 69,
         "descricao": "Tomilho",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 10.30,
+        "valorUnitario": 10.3,
         "unidade": "g",
         "estoque": 10,
         "unidade_estoque": "g",
@@ -1400,10 +1400,10 @@
         }
     },
     {
-        "idProduto": 104,
+        "idProduto": 70,
         "descricao": "Folha de Louro",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 6.30,
+        "valorUnitario": 6.3,
         "unidade": "g",
         "estoque": 10,
         "unidade_estoque": "g",
@@ -1420,10 +1420,10 @@
         }
     },
     {
-        "idProduto": 105,
+        "idProduto": 71,
         "descricao": "Pimenta do reino",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 5.00,
+        "valorUnitario": 5.0,
         "unidade": "g",
         "estoque": 10,
         "unidade_estoque": "g",
@@ -1440,56 +1440,16 @@
         }
     },
     {
-        "idProduto": 106,
+        "idProduto": 72,
         "descricao": "Cominho",
         "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 3.20,
+        "valorUnitario": 3.2,
         "unidade": "g",
         "estoque": 10,
         "unidade_estoque": "g",
         "promocao": "n",
         "destaque": "n",
         "caminhoImagem": "img/produtos/cominho.jpg",
-        "setor": {
-            "idsetor": 1,
-            "setor": "Hortifrut",
-            "secao": {
-                "idSecao": 16,
-                "nomeSecao": "Tempero"
-            }
-        }
-    },
-    {
-        "idProduto": 107,
-        "descricao": "Cúrcuma",
-        "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 4.10,
-        "unidade": "g",
-        "estoque": 10,
-        "unidade_estoque": "g",
-        "promocao": "n",
-        "destaque": "n",
-        "caminhoImagem": "img/produtos/curcuma.jpg",
-        "setor": {
-            "idsetor": 1,
-            "setor": "Hortifrut",
-            "secao": {
-                "idSecao": 16,
-                "nomeSecao": "Tempero"
-            }
-        }
-    },
-    {
-        "idProduto": 108,
-        "descricao": "Manjericao",
-        "descricaoDetalhada": "Produzido por Irrigação",
-        "valorUnitario": 2.50,
-        "unidade": "g",
-        "estoque": 10,
-        "unidade_estoque": "g",
-        "promocao": "n",
-        "destaque": "n",
-        "caminhoImagem": "img/produtos/manjericao.jpg",
         "setor": {
             "idsetor": 1,
             "setor": "Hortifrut",

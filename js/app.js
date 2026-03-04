@@ -10,6 +10,8 @@ selectedCateg.addEventListener("click", function(){
 
 const itemCards = []
 
+const cartListIds = [], cartListQtd = []
+
 const searchInput = document.getElementById("searchInput");
 const searchBtn = document.querySelector(".search button");
 
@@ -76,11 +78,30 @@ function generateCards(){
     .then(res=> res.json())
     .then(info=>{
         info.forEach(el => {
-            const newCard = new itemCard(el.descricao, el.descricaoDetalhada, el.valorUnitario, el.unidade, el.caminhoImagem, el.setor.secao.nomeSecao)
+            const newCard = new itemCard(el.descricao, el.descricaoDetalhada, el.valorUnitario, el.unidade, el.caminhoImagem, el.setor.secao.nomeSecao, el.idProduto)
+            configCardButton(newCard)
             itemContainer.appendChild(newCard.htmlEl)
             itemCards.push(newCard.htmlEl)
         });
     })
+}
+
+function configCardButton(card){
+    card.button.addEventListener("click" ,function(){
+        if(cartListIds.includes(card.id)){
+            cartListQtd[cartListIds.indexOf(card.id)]++
+        } else {
+            cartListIds.push(card.id)
+            cartListQtd.push(1)
+        }
+        localStorage.setItem("cartIds", JSON.stringify(cartListIds))
+        localStorage.setItem("cartQtds", JSON.stringify(cartListQtd))
+    })
+}
+
+function loadLocalStorage(){
+    cartListIds.push(...JSON.parse(localStorage.getItem("cartIds")))
+    cartListQtd.push(...JSON.parse(localStorage.getItem("cartQtds")))
 }
 
 function searchProducts() {
@@ -108,3 +129,4 @@ searchBtn.addEventListener("click", searchProducts);
 
 generateCards()
 generateCategs()
+loadLocalStorage()
