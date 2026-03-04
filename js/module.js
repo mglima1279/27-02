@@ -47,3 +47,78 @@ export class itemCard{
         this.htmlEl = htmlEl
     }
 }
+
+export class cartItem {
+    constructor(imgNam, nam, price, und, qtd, id, onUpdate, onRemove) {
+        this.imgNam = imgNam || "./img/geral/logo.png";
+        this.nam = nam || "Indefinido";
+        this.price = price || 0;
+        this.und = und || "und";
+        this.qtd = qtd || 1;
+        this.id = id;
+
+        const htmlEl = document.createElement("div");
+        htmlEl.classList.add("itemDiv");
+
+        const img = document.createElement("img");
+        img.src = `../${this.imgNam}`;
+        img.alt = this.nam;
+        htmlEl.appendChild(img);
+
+        const infoContainer = document.createElement("div");
+
+        const nomeDiv = document.createElement("div");
+        nomeDiv.classList.add("itemNome");
+        nomeDiv.textContent = this.nam;
+        infoContainer.appendChild(nomeDiv);
+
+        const precosDiv = document.createElement("div");
+        precosDiv.classList.add("itemPrecos");
+
+        const priceSpan = document.createElement("span");
+        priceSpan.textContent = this.price.toFixed(2).replace(".", ",");
+
+        const undSpan = document.createElement("span");
+        undSpan.textContent = this.und;
+
+        this.inputQtd = document.createElement("input");
+        this.inputQtd.type = "number";
+        this.inputQtd.value = this.qtd;
+        this.inputQtd.min = "0";
+
+        this.totalSpan = document.createElement("span");
+        const totalValue = this.price * this.qtd;
+        this.totalSpan.textContent = totalValue.toFixed(2).replace(".", ",");
+
+        precosDiv.append(
+            "R$ ", priceSpan, " ", undSpan, " ", 
+            this.inputQtd, 
+            " R$ ", this.totalSpan
+        );
+
+        infoContainer.appendChild(precosDiv);
+        htmlEl.appendChild(infoContainer);
+
+        this.deleteBtn = document.createElement("i");
+        this.deleteBtn.className = "fa-regular fa-circle-xmark deletar";
+        htmlEl.appendChild(this.deleteBtn);
+
+        this.htmlEl = htmlEl;
+
+        this.inputQtd.addEventListener("change", () => {
+            const newQtd = parseInt(this.inputQtd.value);
+            if (newQtd <= 0) {
+                if (onRemove) onRemove();
+            } else {
+                this.qtd = newQtd;
+                const newTotal = this.price * this.qtd;
+                this.totalSpan.textContent = newTotal.toFixed(2).replace(".", ",");
+                if (onUpdate) onUpdate(this.qtd);
+            }
+        });
+
+        this.deleteBtn.addEventListener("click", () => {
+            if (onRemove) onRemove();
+        });
+    }
+}

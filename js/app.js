@@ -8,12 +8,10 @@ selectedCateg.addEventListener("click", function(){
     sectionClick(this)
 })
 
-const itemCards = []
-
-const cartListIds = [], cartListQtd = []
-
 const searchInput = document.getElementById("searchInput");
 const searchBtn = document.querySelector(".search button");
+
+const itemCards = []
 
 function sectionClick(btn){
     changeSelectStyle(btn)
@@ -86,23 +84,48 @@ function generateCards(){
     })
 }
 
+
+//-------------------------------------------------------
+//CART SYS
+
+const cartList = []
+
 function configCardButton(card){
+
+    
     card.button.addEventListener("click" ,function(){
-        if(cartListIds.includes(card.id)){
-            cartListQtd[cartListIds.indexOf(card.id)]++
+        const itemExiste = cartList.find(el => el.id === card.id);
+        
+        if(itemExiste){
+            itemExiste.qtd++
         } else {
-            cartListIds.push(card.id)
-            cartListQtd.push(1)
+            const newCartEl = {
+                id: card.id,
+                imgNam: card.imgNam,
+                nam: card.nam,
+                price: card.price,
+                qtd: 1,
+                und: card.und
+            }
+
+            cartList.push(newCartEl)
         }
-        localStorage.setItem("cartIds", JSON.stringify(cartListIds))
-        localStorage.setItem("cartQtds", JSON.stringify(cartListQtd))
+        localStorage.setItem("cartList", JSON.stringify(cartList))
     })
 }
 
 function loadLocalStorage(){
-    cartListIds.push(...JSON.parse(localStorage.getItem("cartIds")))
-    cartListQtd.push(...JSON.parse(localStorage.getItem("cartQtds")))
+    const savedCart = localStorage.getItem("cartList");
+    
+    if (savedCart) {
+        cartList.push(...JSON.parse(savedCart));
+    }
 }
+
+loadLocalStorage()
+
+//-------------------------------------------------------
+
 
 function searchProducts() {
     const searchTerm = searchInput.value.toLowerCase().trim();
@@ -129,4 +152,3 @@ searchBtn.addEventListener("click", searchProducts);
 
 generateCards()
 generateCategs()
-loadLocalStorage()
