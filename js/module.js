@@ -100,7 +100,7 @@ export class cartItem {
         htmlEl.appendChild(infoContainer);
 
         this.deleteBtn = document.createElement("i");
-        this.deleteBtn.className = "fa-regular fa-circle-xmark deletar";
+        this.deleteBtn.textContent = "x";
         htmlEl.appendChild(this.deleteBtn);
 
         this.htmlEl = htmlEl;

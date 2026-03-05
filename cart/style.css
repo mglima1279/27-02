@@ -39,6 +39,10 @@ h1{
   margin: 0 1.5rem;
 }
 
+.itemDiv i{
+  cursor: pointer;
+}
+
 .itemNome {
   font-weight: 700;
   width: 120px;
