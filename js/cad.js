@@ -144,3 +144,19 @@ function validarCPF(cpf) {
 
     return true;
 }
+
+function checkUser(){
+    const tempUserData = localStorage.getItem("user")
+    if (tempUserData) {
+        const userData = JSON.parse(tempUserData)
+
+        if(confirm(`${userData.nam}, você já está cadastrado!! Deseja sair e criar outro usuáio?`)){
+            localStorage.removeItem("user")
+        } else{
+            window.location.href = "../"
+        }
+    }
+}
+
+checkUser()
+
