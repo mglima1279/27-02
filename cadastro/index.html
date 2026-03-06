@@ -23,33 +23,39 @@
             <a href="./">Cadastro</a>
         </div>
 
-        <div class="cart">
-            <a href="../cart/">
-                Carrinho
-            </a>
+        <div class="rightSide">
+            <div class="userInfo" id="userInfo" style="display: none;">
+                <span>Olá, <strong id="userNameDisplay">Usuário</strong></span>
+            </div>
+
+            <div class="cart">
+                <a href="../cart/">
+                    Carrinho
+                </a>
+            </div>
         </div>
     </header>
 
     <main>
-        <h1>CADASTRO</h1>
-        <form>
-            <div class="formItem">
+        <h1 id="formTitle">CADASTRO</h1>
+        <form id="mainForm">
+            <div class="formItem registerOnly">
                 <label for="nam">Nome*</label>
                 <input type="text" placeholder="Digite aqui..." name="nam" id="nam" required>
             </div>
 
-            <div class="formItem">
+            <div class="formItem registerOnly">
                 <label for="secNam">Sobrenome*</label>
                 <input type="text" placeholder="Digite aqui..." name="secNam" id="secNam" required>
             </div>
 
-            <div class="formItem">
+            <div class="formItem registerOnly">
                 <label for="cpf">CPF*</label>
                 <input type="text" inputmode="numeric" pattern="\d{11}" placeholder="Digite aqui..." name="cpf" id="cpf"
                     maxlength="11" required>
             </div>
 
-            <div class="formItem">
+            <div class="formItem registerOnly">
                 <label for="tel">Telefone*</label>
                 <input type="text" inputmode="numeric" placeholder="Digite aqui..." name="tel" id="tel" pattern="\d{11}"
                     maxlength="11" required>
@@ -60,12 +66,12 @@
                 <input type="email" placeholder="Digite aqui..." name="email" id="email" required>
             </div>
 
-            <div class="formItem">
+            <div class="formItem registerOnly">
                 <label for="birth">Data de nascimento*</label>
                 <input type="date" name="birth" id="birth" required>
             </div>
 
-            <div class="formItem">
+            <div class="formItem registerOnly">
                 <label for="cep">CEP*</label>
                 <input type="text" placeholder="00000000" inputmode="numeric" name="cep" id="cep" pattern="\d{8}" maxlength="8" required>
             </div>
@@ -87,10 +93,13 @@
 
             <div class="formItem">
                 <label for="password">Senha*</label>
-                <input type="password" placeholder="Digite aqui..." name="password" id="password" required>
+                <div class="pass-wrapper">
+                    <input type="password" placeholder="Digite aqui..." name="password" id="password" required>
+                    <button type="button" id="togglePasswordBtn">Mostrar</button>
+                </div>
             </div>
 
-            <div>
+            <div class="registerOnly">
                 <input type="checkbox" name="notif" id="notif">
                 <label for="notif">Desejo receber ofertas pelo email e pelo WhatsApp</label>
             </div>
@@ -99,6 +108,8 @@
                 <input type="submit" value="Cadastrar">
                 <input type="reset" value="Limpar">
             </div>
+            
+            <button id="toggleModeBtn">Já tem uma conta? Faça Login</button>
         </form>
     </main>
 
@@ -113,7 +124,8 @@
         </div>
     </footer>
 
-    <script type="module" src="../js/cad.js" defer></script>
+    <script type="module" src="../js/public.js" defer></script>
+    <script src="js/public.js"></script>
 </body>
 
 </html>

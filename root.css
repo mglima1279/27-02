@@ -168,3 +168,20 @@ footer {
   border-radius: var(--borda-raio);
   cursor: default;
 }
+
+.rightSide {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.userInfo {
+  color: var(--cor-texto);
+  font-size: 1.05rem;
+  font-weight: 500;
+}
+
+.userInfo strong {
+  color: var(--cor-primaria);
+  font-weight: 700;
+}

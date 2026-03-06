@@ -43,13 +43,18 @@ function changeSelectStyle(btn){
     selectedCateg.classList.toggle("selected")
 }
 
-function generateCategs(){
+function generateCards(){
     let categs = []
 
     fetch(encodeURI("./js/db.json"))
     .then(res=> res.json())
     .then(info=>{
         info.forEach(el => {
+            const newCard = new itemCard(el.descricao, el.descricaoDetalhada, el.valorUnitario, el.unidade, el.caminhoImagem, el.setor.secao.nomeSecao, el.idProduto)
+            configCardButton(newCard)
+            itemContainer.appendChild(newCard.htmlEl)
+            itemCards.push(newCard.htmlEl)
+
             const secName = el.setor.secao.nomeSecao
             if(!categs.includes(secName)){
                 const htmlEl = document.createElement("button")
@@ -64,22 +69,6 @@ function generateCategs(){
 
                 categs.push(secName)
             }
-        });
-    })
-}
-
-
-function generateCards(){
-    let data = []
-
-    fetch(encodeURI("./js/db.json"))
-    .then(res=> res.json())
-    .then(info=>{
-        info.forEach(el => {
-            const newCard = new itemCard(el.descricao, el.descricaoDetalhada, el.valorUnitario, el.unidade, el.caminhoImagem, el.setor.secao.nomeSecao, el.idProduto)
-            configCardButton(newCard)
-            itemContainer.appendChild(newCard.htmlEl)
-            itemCards.push(newCard.htmlEl)
         });
     })
 }
@@ -151,4 +140,3 @@ searchInput.addEventListener("input", searchProducts);
 searchBtn.addEventListener("click", searchProducts);
 
 generateCards()
-generateCategs()
